@@ -17,7 +17,7 @@ jobs:
       contents: write
       actions: write
     with:
-      repo_url: https://github.com/qosmio/openwrt-ipq/tree/24.10-nss
+      repo_url: https://github.com/qosmio/openwrt-ipq
       repo_branch: 24.10-nss
       config_file: configs/IPQ807X.config
       firmware_tag: IPQ807X
